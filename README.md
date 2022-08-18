@@ -1,2 +1,2 @@
-# create-linux-swap-file
-Creates a linux swap file
+# create-linux-swapfile
+Creates a linux swapfile
