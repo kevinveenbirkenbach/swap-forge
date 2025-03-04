@@ -1,6 +1,6 @@
 # SwapForge (swafo) 🔄
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/kevinveenbirkenbach/swapforge.svg?style=social)](https://github.com/kevinveenbirkenbach/swap-forge/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/kevinveenbirkenbach/swap-forge.svg?style=social)](https://github.com/kevinveenbirkenbach/swap-forge/stargazers)
 
 SwapForge is a simple yet powerful bash script for creating and managing Linux swapfiles. Whether you need to boost system performance or add swap space to your setup, SwapForge automates the process quickly and reliably.
 
